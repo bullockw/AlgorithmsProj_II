@@ -109,24 +109,24 @@ if(cars[i].numPassenger == 0){
 ## **Experiment Results**
 ### <p align="center">Seed: 1</p>
 #### <p align="center">*Our Score=2537.2964  |  Opponent Score: 622.69965*</p>
-![my screenshot](/Users/wbullock/Desktop/TaxiSeed-1.png)
+![my screenshot](https://github.com/bullockw/AlgorithmsProj_II/blob/master/TaxiSeed-1.png)
 
 
 ### <p align="center">Seed: 14</p>
 #### <p align="center">*Our Score=2227.5356  |  Opponent Score: 1737.8099*</p>
-![my screenshot](/Users/wbullock/Desktop/TaxiSeed-14.png)
+![my screenshot](https://github.com/bullockw/AlgorithmsProj_II/blob/master/TaxiSeed-14.png)
 
 ### <p align="center">Seed: 29</p>
 #### <p align="center">*Our Score=2502.464  |  Opponent Score: 1917.6663*</p>
-![my screenshot](/Users/wbullock/Desktop/TaxiSeed-29.png)
+![my screenshot](https://github.com/bullockw/AlgorithmsProj_II/blob/master/TaxiSeed-29.png)
 
 ### <p align="center">Seed: 135</p>
 #### <p align="center">*Our Score=2667.2622  |  Opponent Score: 1837.3572*</p>
-![my screenshot](/Users/wbullock/Desktop/TaxiSeed-135.png)
+![my screenshot](https://github.com/bullockw/AlgorithmsProj_II/blob/master/TaxiSeed-135.png)
 
 ### <p align="center">Seed: 629</p>
 #### <p align="center">*Our Score=2387.6208  |  Opponent Score: 1847.3228*</p>
-![my screenshot](/Users/wbullock/Desktop/TaxiSeed-629.png)
+![my screenshot](https://github.com/bullockw/AlgorithmsProj_II/blob/master/TaxiSeed-629.png)
 
 ## Summary
 
