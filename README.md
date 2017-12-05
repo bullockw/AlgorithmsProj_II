@@ -1,5 +1,5 @@
 # <p align="center"> **Part II: Eagle Taxi Project**  </p>
-<p align="center"> *Alexander Forte, Mika Chestnut, Will Bullock*  </p>
+<p align="center"> *Alexander Forte*, *Mika Chestnut*, *Will Bullock*  </p>
 
 ___
 ## **Introduction**
