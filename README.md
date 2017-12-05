@@ -1,7 +1,7 @@
 # <p align="center"> **Part II: Eagle Taxi Project**  </p>
-<p align="center"> _Alexander Forte, Mika Chestnut, Will Bullock_  </p>
-___
+<p align="center"> *Alexander Forte, Mika Chestnut, Will Bullock*  </p>
 
+___
 ## **Introduction**
 The emergence of on-demand services highlights the growing need for efficient and effective delivery and routing algorithms. Ride-hailing services like Uber and e-commerce giants like Amazon all strive to find the most lucrative and resource-sensitive strategies in order to maximize their businesses' productivity. There are several different approaches to this problem, commonly referred to as the Vehichle Routing Problem, which prioritize different factors in thier method, whether it be passengers, driving time, distance, and car pooling. As algorithmic consultants for the new ride-sharing company, *Eagle Taxi*, we developed a greedy car pool strategy to overtake the competition of Uber and Lyft.
 
