@@ -1,5 +1,5 @@
 # <p align="center"> **Part II: Eagle Taxi Project**  </p>
-<p align="center"> *Alexander Forte, Mika Chestnut, Will Bullock*  </p>
+<p align="center"> _Alexander Forte, Mika Chestnut, Will Bullock_  </p>
 ___
 
 ## **Introduction**
@@ -51,7 +51,8 @@ if(cars[i].numPassenger == 0){
        cars[i].changeDirection(3);
      }
    }
- }```
+ }
+ ```
    * When there is at least one passenger in the car, our algorithm uses Manhattan distances (due to the grid orientation of the environment) to drop off the passenger with the closest destination.
   ```java
   else {
@@ -89,7 +90,8 @@ if(cars[i].numPassenger == 0){
         cars[i].changeDirection(3);
       }
     }
-  }```
+  }
+  ```
    * En route to this destination, if one of the cars is not at full capacity, it will pick up passengers in its path. If a new passenger needs to be dropped off at a closer destination than the previous closest, the route will update and this cycle will continue until the time frame ends.
 
 ### Thought Process
